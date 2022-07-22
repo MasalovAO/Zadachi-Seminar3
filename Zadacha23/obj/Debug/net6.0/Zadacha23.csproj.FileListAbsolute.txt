@@ -1,0 +1,15 @@
+D:\Обучение\Lexion 3\Zadacha23\bin\Debug\net6.0\Zadacha23.exe
+D:\Обучение\Lexion 3\Zadacha23\bin\Debug\net6.0\Zadacha23.deps.json
+D:\Обучение\Lexion 3\Zadacha23\bin\Debug\net6.0\Zadacha23.runtimeconfig.json
+D:\Обучение\Lexion 3\Zadacha23\bin\Debug\net6.0\Zadacha23.dll
+D:\Обучение\Lexion 3\Zadacha23\bin\Debug\net6.0\Zadacha23.pdb
+D:\Обучение\Lexion 3\Zadacha23\obj\Debug\net6.0\Zadacha23.csproj.AssemblyReference.cache
+D:\Обучение\Lexion 3\Zadacha23\obj\Debug\net6.0\Zadacha23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Lexion 3\Zadacha23\obj\Debug\net6.0\Zadacha23.AssemblyInfoInputs.cache
+D:\Обучение\Lexion 3\Zadacha23\obj\Debug\net6.0\Zadacha23.AssemblyInfo.cs
+D:\Обучение\Lexion 3\Zadacha23\obj\Debug\net6.0\Zadacha23.csproj.CoreCompileInputs.cache
+D:\Обучение\Lexion 3\Zadacha23\obj\Debug\net6.0\Zadacha23.dll
+D:\Обучение\Lexion 3\Zadacha23\obj\Debug\net6.0\refint\Zadacha23.dll
+D:\Обучение\Lexion 3\Zadacha23\obj\Debug\net6.0\Zadacha23.pdb
+D:\Обучение\Lexion 3\Zadacha23\obj\Debug\net6.0\Zadacha23.genruntimeconfig.cache
+D:\Обучение\Lexion 3\Zadacha23\obj\Debug\net6.0\ref\Zadacha23.dll
