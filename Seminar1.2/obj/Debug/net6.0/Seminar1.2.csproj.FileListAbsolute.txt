@@ -1,0 +1,15 @@
+D:\Обучение\Lexion 3\Seminar1.2\bin\Debug\net6.0\Seminar1.2.exe
+D:\Обучение\Lexion 3\Seminar1.2\bin\Debug\net6.0\Seminar1.2.deps.json
+D:\Обучение\Lexion 3\Seminar1.2\bin\Debug\net6.0\Seminar1.2.runtimeconfig.json
+D:\Обучение\Lexion 3\Seminar1.2\bin\Debug\net6.0\Seminar1.2.dll
+D:\Обучение\Lexion 3\Seminar1.2\bin\Debug\net6.0\Seminar1.2.pdb
+D:\Обучение\Lexion 3\Seminar1.2\obj\Debug\net6.0\Seminar1.2.csproj.AssemblyReference.cache
+D:\Обучение\Lexion 3\Seminar1.2\obj\Debug\net6.0\Seminar1.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Lexion 3\Seminar1.2\obj\Debug\net6.0\Seminar1.2.AssemblyInfoInputs.cache
+D:\Обучение\Lexion 3\Seminar1.2\obj\Debug\net6.0\Seminar1.2.AssemblyInfo.cs
+D:\Обучение\Lexion 3\Seminar1.2\obj\Debug\net6.0\Seminar1.2.csproj.CoreCompileInputs.cache
+D:\Обучение\Lexion 3\Seminar1.2\obj\Debug\net6.0\Seminar1.2.dll
+D:\Обучение\Lexion 3\Seminar1.2\obj\Debug\net6.0\refint\Seminar1.2.dll
+D:\Обучение\Lexion 3\Seminar1.2\obj\Debug\net6.0\Seminar1.2.pdb
+D:\Обучение\Lexion 3\Seminar1.2\obj\Debug\net6.0\Seminar1.2.genruntimeconfig.cache
+D:\Обучение\Lexion 3\Seminar1.2\obj\Debug\net6.0\ref\Seminar1.2.dll
